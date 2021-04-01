@@ -12,7 +12,7 @@
     "superagent": "^6.1.0"
   },
   "devDependencies": {},
-=======
+
   "name": "lab-07-Repository",
   "version": "1.0.0",
   "description": "",
@@ -34,7 +34,7 @@
     "url": "https://github.com/Sajeda-Araidah/lab-07-Repository/issues"
   },
 
-  "homepage": "https://github.com/Sajeda-Araidah/lab-07-Repository#readme"
+  
 
   "homepage": "https://github.com/Sajeda-Araidah/lab-07-Repository#readme",
   "dependencies": {
